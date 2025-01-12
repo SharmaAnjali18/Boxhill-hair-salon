@@ -6,13 +6,13 @@ Welcome to the Boxhill Hair Salon repository! This is a static website project c
 Boxhill Hair Salon is a modern unisex salon dedicated to providing high-quality haircuts, styling, coloring, and overall hair care. This website serves as an online portfolio and informational hub, allowing users to easily navigate through the services, book appointments, and stay updated on salon promotions.
 
 # Features
-# Responsive Design: 
+## Responsive Design: 
 Fully responsive layout, ensuring a seamless experience on mobile, tablet, and desktop devices.
-# Service Overview: 
+Service Overview: 
 A dedicated section highlighting the various services offered, with pricing details and descriptions.
-# Online Appointment Form: 
+Online Appointment Form: 
 An easy-to-use form that allows customers to submit booking requests (for demonstration purposes).
-# Salon Gallery: 
+## Salon Gallery: 
 A visual portfolio showcasing some of the salon's best work, giving potential clients a look at our stylist's capabilities.
 # Smooth Animations: 
 Dynamic animations using Anime.js to add engaging motion to the page transitions and elements.
